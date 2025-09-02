@@ -5,9 +5,13 @@
 🚀 About Me
 
 🌱 Currently learning Backend Development, DevOps, and DSA in Java
+
 🛠 Skilled in Java, Node.js, Express, MongoDB, Docker, CI/CD, and Cloud
+
 📊 Practicing LeetCode (arrays, strings, linked lists, trees, hashmaps & more) to master problem-solving
+
 📦 Exploring Infrastructure as Code, monitoring, and scalable deployments
+
 🎯 Goal: To become a Full-Stack Developer & DevOps Engineer capable of architecting robust, scalable solutions
 
 🛠 Tech Stack
