@@ -21,6 +21,9 @@ DSA → Java (Arrays, Strings, Linked Lists, Trees, HashMaps, Graphs)
 📫 Connect with Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/varun-gangwar-ab228a188/
+
 🐙 LeetCode: https://leetcode.com/u/varungangwar/
+
 💁 X: https://x.com/VarunGangwar07
+
 ✉️ Email: varungangwar07@gmail.com
