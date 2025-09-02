@@ -13,9 +13,13 @@
 🛠 Tech Stack
 
 Languages → Java, JavaScript (Node.js), Python
+
 Backend → Express.js, MongoDB, REST APIs
+
 Frontend → React.js, Next.js
+
 DevOps → Docker, CI/CD pipelines, Cloud, Monitoring
+
 DSA → Java (Arrays, Strings, Linked Lists, Trees, HashMaps, Graphs)
 
 📫 Connect with Me
